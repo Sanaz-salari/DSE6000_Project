@@ -1,4 +1,4 @@
-# 
+# Dash is a Python framework provided by plotly for building web applications. 
 The charts and narration were presented in this repository are defined as a Dashboard using Plotly Dash and some details of this project are as follows: 
 At least 20 different types of correlations, frequencies, and/or relationships between various independent and dependent variables with meaningful plots of 5 different types were shown. 
 The considered assumptions and findings were explained before and after each plot. 
